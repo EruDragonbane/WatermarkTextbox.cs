@@ -5,7 +5,10 @@ using System.Windows.Forms;
 namespace DbDateQuery.WatermarkTextbox
 {
     /// <summary>
-    /// Projelerde kullanılmak amacıyla vardır. 
+    /// Projelerde kullanılmak amacıyla vardı.
+    /// Kullanıldığı dönemde Watermark fonksiyonu bulunmadığından dolayı
+    /// yapay olarak watermark oluşturulmuştur.
+    ///
     /// Textboxlar için Watermark
     /// </summary>
     public class WatermarkTextbox : TextBox
